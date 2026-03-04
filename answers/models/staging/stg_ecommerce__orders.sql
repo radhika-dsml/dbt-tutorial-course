@@ -1,3 +1,4 @@
+--stg_ecommerce
 WITH source AS (
 	SELECT *
 
