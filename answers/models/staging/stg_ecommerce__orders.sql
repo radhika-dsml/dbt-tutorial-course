@@ -1,4 +1,4 @@
---stg_ecommerce_comment
+--stg_ecommerce_comment_added
 WITH source AS (
 	SELECT *
 
